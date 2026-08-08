@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-:computer: "python"
-:camera:  fotografo y diseñador grafico
-:CANDLE CHARTERS: inverso de opciones NYES
-:motorcycles: fan de las motos
+- 💻 Estudiando "python"
+- 📸 Fotógrafo y diseñador gráfico
+- 📈 Inversor de opciones NYES
+- 🏍️ Fan de las motos
 
 ### vias de contacto
 
