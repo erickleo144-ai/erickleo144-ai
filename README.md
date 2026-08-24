@@ -3,7 +3,7 @@
 - 💻 Estudiando "python"
 - 📸 Fotógrafo y diseñador gráfico
 - 📈 Inversor de opciones NYES
-- 🏍️ Fan de las motos
+- 🏍️ Fan de las motocicletas
 
 ### vias de contacto
 
